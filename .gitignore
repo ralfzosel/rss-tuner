@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/*
+*.code-workspace
+
+.python-version
+__pycache__
+
+.env*
+
+*.log
+
+dist/*
+build/*
+
+feed.rss
